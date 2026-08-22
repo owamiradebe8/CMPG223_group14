@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\sulec\\source\\repos\\CMPG223_group14\\Imvelo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5BA7E624-A251-4EAE-BEB5-E58696A4439F}|Imvelo.csproj|c:\\users\\sulec\\source\\repos\\cmpg223_group14\\imvelo\\touristsadmindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA7E624-A251-4EAE-BEB5-E58696A4439F}|Imvelo.csproj|solutionrelative:touristsadmindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5BA7E624-A251-4EAE-BEB5-E58696A4439F}|Imvelo.csproj|c:\\users\\sulec\\source\\repos\\cmpg223_group14\\imvelo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BA7E624-A251-4EAE-BEB5-E58696A4439F}|Imvelo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,11 +29,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TouristsAdminDash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sulec\\source\\repos\\CMPG223_group14\\Imvelo\\TouristsAdminDash.cs",
+              "RelativeDocumentMoniker": "TouristsAdminDash.cs",
+              "ToolTip": "C:\\Users\\sulec\\source\\repos\\CMPG223_group14\\Imvelo\\TouristsAdminDash.cs [Design]",
+              "RelativeToolTip": "TouristsAdminDash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T18:22:41.028Z",
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -41,7 +61,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "dbo.AREA [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/imvelo.database.windows.net/Imvelo_Database/imvelo/SqlTable/dbo.AREA.sql",
               "ToolTip": "dbo.AREA [Data]",
@@ -50,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sulec\\source\\repos\\CMPG223_group14\\Imvelo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -62,20 +82,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\sulec\\source\\repos\\CMPG223_group14\\Imvelo\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\sulec\\source\\repos\\CMPG223_group14\\Imvelo\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwHQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-21T11:30:46.144Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\sulec\\source\\repos\\CMPG223_group14\\Imvelo\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
