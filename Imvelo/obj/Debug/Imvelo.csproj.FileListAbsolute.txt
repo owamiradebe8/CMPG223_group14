@@ -1,0 +1,10 @@
+C:\Users\sulec\source\repos\CMPG223_group14\Imvelo\bin\Debug\Imvelo.exe.config
+C:\Users\sulec\source\repos\CMPG223_group14\Imvelo\bin\Debug\Imvelo.exe
+C:\Users\sulec\source\repos\CMPG223_group14\Imvelo\bin\Debug\Imvelo.pdb
+C:\Users\sulec\source\repos\CMPG223_group14\Imvelo\obj\Debug\Imvelo.csproj.AssemblyReference.cache
+C:\Users\sulec\source\repos\CMPG223_group14\Imvelo\obj\Debug\Imvelo.Properties.Resources.resources
+C:\Users\sulec\source\repos\CMPG223_group14\Imvelo\obj\Debug\Imvelo.csproj.GenerateResource.cache
+C:\Users\sulec\source\repos\CMPG223_group14\Imvelo\obj\Debug\Imvelo.csproj.CoreCompileInputs.cache
+C:\Users\sulec\source\repos\CMPG223_group14\Imvelo\obj\Debug\Imvelo.exe
+C:\Users\sulec\source\repos\CMPG223_group14\Imvelo\obj\Debug\Imvelo.pdb
+C:\Users\sulec\source\repos\CMPG223_group14\Imvelo\obj\Debug\Imvelo.AdminDashboardForm.resources
